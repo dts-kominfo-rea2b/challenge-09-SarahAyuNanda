@@ -1,4 +1,16 @@
+:root {
+  --primary-dark: #261C2C;
+  --primary-medium: #3E2C41;
+  --primary-light: #5C527F;
+  --white: #FFFFFF;
+}
+
 .App {
+  padding: 30px;
   text-align: center;
   display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
 }
